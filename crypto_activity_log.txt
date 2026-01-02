@@ -1,0 +1,21 @@
+Caesar | Encrypt | HELLO -> KHOOR
+Caesar | Decrypt | KHOOR -> HELLO
+Hill Cracker | Key Recovery | HELLO -> [[4 2]
+ [3 3]]
+Caesar | Encrypt | HELLO -> KHOOR
+Caesar | Decrypt | KHOOR -> HELLO
+Affine | Encrypt | HELLO -> RCLLA
+Affine | Decrypt | RCLLA -> HELLO
+Playfair | Encrypt | HELLO -> CFSUPM
+Playfair | Decrypt | CFSUPM -> HELXLO
+Hill | Encrypt | HELLO -> HIOZHN
+Hill | Decrypt | HIOZHN -> HELLOX
+Hill | Encrypt | HELP -> HIAT
+Hill | Encrypt | DATA -> HXBH
+Hill | Decrypt | HXBH -> TAZA
+Hill | Encrypt | DATA -> JJFF
+Hill | Decrypt | JJFF -> DATA
+Hill | Encrypt | HELP -> HIAT
+Hill | Decrypt | HIAT -> HELP
+Hill Cracker | Key Recovery | HELP -> [[3 3]
+ [2 5]]
